@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"D:/Proyectos/Maestria/Chef/laboratorio_chef","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
